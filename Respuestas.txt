@@ -1,0 +1,12 @@
+¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+	* porque git lo almacena en la carpeta .git
+
+vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+	* que desde la rama Opcion_2 no hemos movido (regresado) a la rama main por lo que estamos trabajando en ella.
+
+
+Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+	* que ahora en ambas ramas estan en paralelo es decir que en ambas ramas se tiene lo mismo.
